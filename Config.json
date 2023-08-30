@@ -1,0 +1,18 @@
+{
+  "identifier": "com.pilotmoon.popclip.extension.iafd",
+  "name": "IAFD",
+  "icon": "iafd.svg",
+  "regex": "(?s)^.{1,1900}$",
+  "url": "https://www.iafd.com/results.asp?searchtype=comprehensive&searchstring={popclip text}",
+  "app": {
+    "link": "http://www.iafd.com/",
+    "name": "IAFD"
+  },
+  "description": "Search the web using IAFD.",
+  "credits": [
+    {
+      "link": "https://github.com/popclipsnippet",
+      "name": "Nathan Lee"
+    }
+  ]
+}
